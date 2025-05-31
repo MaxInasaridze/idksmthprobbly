@@ -1,0 +1,38 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  background-color: lightgreen;
+  max-width: 290px;
+  gap: 20px;
+}
+
+h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.entering {
+  margin-bottom: 15px;
+}
+
+h3 {
+  margin: 0 0 5px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #ddd;
+  width: 200px;
+  font-size: 14px;
+}
+
+
+.card button{
+  background-color: greenyellow;
+  border: 1px green solid;
+  border-radius: 3px;
+  height: 25px;
+}
